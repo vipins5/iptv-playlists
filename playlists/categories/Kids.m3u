@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Kids",Minimax (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy;Kids",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation;Kids",Mr. Bean Animated (1080p)
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pop.uk@SD" tvg-logo="" group-title="Kids",Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="PopUp.uk@SD" tvg-logo="https://i.imgur.com/GdSotmS.png" group-title="Kids",Pop Up (1080p) [Geo-blocked]
+https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (720p)
+https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="TinyPop.uk@SD" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="Kids",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="YAAAS.uk@HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png" group-title="Kids",YAAAS! (720p) [Geo-blocked]
+https://d3knqoaufvjug3.cloudfront.net/yas.m3u8

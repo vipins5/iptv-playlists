@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AajEntertainment.pk@SD" tvg-logo="https://i.imgur.com/WK5Cqap.png" group-title="Entertainment",Aaj Entertainment (1080p)
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="aurLifeHD.pk@SD" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="General",aurLife HD (614p)
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="BolEntertainment.pk@SD" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment",Bol Entertainment (1080p)
+https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk@SD" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment",Express Entertainment (1080p)
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="SABTV.pk@SD" tvg-logo="https://i.imgur.com/hC7Sidr.png" group-title="Entertainment",SAB TV (1080p)
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Adventure Earth (GB)
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Air and Space (GB)
+https://wingspan-airandspace-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk@SD" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="General",AlbUK TV (1080p) [Not 24/7]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AnandTV.uk@SD" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General",Anand TV (720p) [Not 24/7]
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" group-title="UK",Arirang World
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Artflix (GB)
+https://amogonetworx-artflix-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="General",ATN Bangla UK (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Baby Shark TV (GB)
+https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="General",BBC Three HD (720p)
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two (1080p) [Geo-blocked]
+https://rdmedia.api.bbc.co.uk/ll-trial/mpd/bbc_two_england/manifest.mpd
+#EXTINF:-1 tvg-id="BBCRadioWorldService.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" group-title="UK",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Bigtjme (GB)
+https://amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Brat TV (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",British Screen Classics (GB) Geo
+https://amg00654-itv-amg00654c22-lg-gb-4066.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canaf54TV.uk@SD" tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="General",Canaf54 TV
+https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",CNN Fast (GB) Geo
+https://amg00803-cnnfast-amg00803c6-lg-gb-5355.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Cops (GB)
+https://langleyproductions-cops-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Deal Masters (GB) Geo
+https://amg00841-aeemea-amg00841c8-lg-gb-3889.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Dog the Bounty Hunter (GB) Geo
+https://amg00276-aenetwork-amg00276c11-lg-gb-3748.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Duck Dynasty (GB) Geo
+https://amg00276-aenetwork-amg00276c2-lg-gb-3751.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entertainment",ENT Channel (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entertainment",ENT Family (720p)
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Evolution Earth (GB) Geo
+https://amg00276-aenetwork-amg00276c15-lg-gb-5552.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Fear Factor (UK) Geo
+https://banijay-fearfactor-lg-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Fuel TV (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",GBN (GB) wrong c
+https://amg01076-lightning-amg01076c1-lg-gb-2020.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Ghost Hunters Channel (GB) Geo
+https://amg00353-amg00353c18-lg-gb-3437.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Go USA (GB)
+https://brandusa-gousa-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Great British Menu (GB)
+https://all3media-great-british-menu-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Great Romance! (GB) Geo
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Grjngo (GB)
+https://amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HalaLondon.uk@SD" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="General",Hala London (1080p)
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Haunt TV (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-hanuttvuk-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Hells Kitchen (GB) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchenlg-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",HNC Free (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/hncAAAAAA-hncfree-lg-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",HNC Free (UK) Geo
+https://hncfree-lg-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Infast (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Intervention (GB) Geo
+https://amg00276-aenetwork-amg00276c17-lg-gb-3760.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalJadid.uk@SD" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="General",Kanal Jadid
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LatestTV.uk@SD" tvg-logo="https://i.imgur.com/Cl1iGEb.jpeg" group-title="General",Latest TV (480p)
+https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Life Downunder (GB)
+https://wtfn-lifedownunder-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Little Women L.A (GB) Geo
+https://amg00276-aenetwork-amg00276c18-lg-gb-3917.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Love Pets (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Love Wine (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="Manoto.uk@SD" tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="Entertainment",Manoto TV
+https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Master Chef UK (CA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchefuk-lgca/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Mech Plus (GB)
+https://mechtvltd-mechplus-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Moconomy (GB)
+https://amogonetworx-moconomy-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Mr Bean (GB)
+https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Mr Bean Animated (GB)
+https://amg00627-banijay-amg00627c28-lg-gb-4244.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Mtrspt 1 alt (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Now 70s (GB) Geo
+https://amg01076-lightning-amg01076c2-lg-gb-2021.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Now 80's (GB) Geo
+https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Pop Flix (GB)
+https://signatureentertainment-popflix-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Real Crime (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimealpha-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Real Wild (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="" group-title="General",S4C
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",So...Real (GB)
+https://all3media-soreal-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Strong Mans Champion League (GB)
+https://rightsboosterltd-scl-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",The Biggest Loser (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestlooser-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Comedy;Series",The Chat Show Channel (1080p)
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Entertainment",The Graham Norton Show (1080p)
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Timber Kings (GB) Geo
+https://amg00353-amg00353c41-lg-gb-5242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Timeline (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Trace Urban (UK) Geo
+https://trace-urban-lg-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Trace Urban alt (UK) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueCrime.uk@SD" tvg-logo="https://i.imgur.com/LK2NFst.png" group-title="Series",True Crime UK (1080p)
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Unbeaten (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeatengb-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Watchmojo (GB)
+https://watchmojo-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Waterbear Network (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Wedo Big Docs (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Wipeout Xtra (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Wonder (GB)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",World Poker Tour (GB) Geo
+https://amg00218-wptenterprises-amg00218c1-lg-gb-2283.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Xite Hits (UK)
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Xite Hits alt (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-hitsuk-lg/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One (1080p)
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français (720p)
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One German (720p)
+https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us@SD" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Entertainment",AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="XUMO_9999613" tvg-logo="https://image.xumo.com/v1/channels/channel/9999613/300x300.webp?type=color_onBlack" group-title="General",Bounce XL
+https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=9999613&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BounceXL&ads.csid=xumo_[PLATFORM]_BounceXL_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Comedy,Entertainment,GV&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Comedy,Entertainment,GV&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3342&ads.xumo_contentName=BounceXL&ads.xumo_providerId=3342&ads.xumo_providerName=BounceXL&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999613&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="XUMO_99951242" tvg-logo="https://image.xumo.com/v1/channels/channel/99951242/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Reality TV",Bravo Vault
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?ads.xumo_channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_[PLATFORM]_NBCUBravoVault_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.channelId=99951242&ads._fw_ifa_type=[IFA_TYPE]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",CBS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529
+#EXTINF:-1 tvg-id="Comet.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="Entertainment",Comet (1080p)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="XUMO_99951488" tvg-logo="https://image.xumo.com/v1/channels/channel/99951488/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Reality TV",Dance Moms by Lifetime
+https://dbrb49pjoymg4.cloudfront.net/10001/99951488/hls/playlist.m3u8?ads.xumo_channelId=99951488&ads.xumo_streamId=99951488&ads.channelId=99951488&ads.channelName=AEDanceMoms_us&ads.caid=AEDanceMoms&ads.csid=xumo_[PLATFORM]_AEDanceMoms_ssai&ads._fw_coppa=0&ads.xumo_contentId=4328&ads.xumo_contentName=AEDanceMoms&ads.xumo_providerId=4328&ads.xumo_providerName=AEDanceMoms&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
+#EXTINF:-1 tvg-id="XUMO_99951438" tvg-logo="https://image.xumo.com/v1/channels/channel/99951438/300x300.webp?type=color_onBlack" group-title="General",Discovery Turbo TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_channelId=99951438&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WBDMotorTrendFASTTV&ads.csid=xumo_[PLATFORM]_WBDMotorTrendFASTTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4240&ads.xumo_contentName=WBDMotorTrendFASTTV&ads.xumo_providerId=4240&ads.xumo_providerName=WBDMotorTrendFASTTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951438&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Estrella TV (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="GameShowCentral.us@SD" tvg-logo="https://i.imgur.com/Uuc5h1s.png" group-title="Entertainment",Game Show Central (720p)
+https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+#EXTINF:-1 tvg-id="XUMO_99951158" tvg-logo="https://image.xumo.com/v1/channels/channel/99951158/300x300.webp?type=color_onBlack" group-title="General",ION
+https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsION&ads.csid=xumo_[PLATFORM]_ScrippsION_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951158&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="XUMO_9999614" tvg-logo="https://image.xumo.com/v1/channels/channel/9999614/300x300.webp?type=color_onBlack" group-title="General",ION Plus
+https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="XUMO_99951232" tvg-logo="https://image.xumo.com/v1/channels/channel/99951232/300x300.webp?type=color_onBlack" group-title="General",Laff More
+https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsLaffMore&ads.csid=xumo_[PLATFORM]_ScrippsLaffMore_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3924&ads.xumo_contentName=ScrippsLaffMore&ads.xumo_providerId=3924&ads.xumo_providerName=ScrippsLaffMore&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951232&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@US" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8

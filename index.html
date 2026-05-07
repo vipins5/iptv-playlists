@@ -245,6 +245,33 @@
       font-weight: 700;
     }
 
+    .category-links {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .category-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 14px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.06);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 800;
+    }
+
+    .category-link span {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
     footer {
       width: min(1120px, calc(100% - 32px));
       margin: 0 auto;
@@ -264,6 +291,10 @@
 
       .stats,
       .playlist-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .category-links {
         grid-template-columns: 1fr;
       }
 
@@ -347,6 +378,22 @@
         <span class="tag">NBC News NOW</span>
         <span class="tag">Newsmax</span>
         <span class="tag">WeatherNation</span>
+      </div>
+    </section>
+
+    <h2 class="section-title">Categories</h2>
+    <section class="note">
+      Pick a focused playlist when your IPTV player or Stremio setup works better with smaller channel groups.
+      <div class="category-links" aria-label="Category playlist links">
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/News.m3u">News <span>44</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Movies.m3u">Movies <span>22</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Entertainment.m3u">Entertainment <span>98</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Sports.m3u">Sports <span>12</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Kids.m3u">Kids <span>9</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Documentary.m3u">Documentary <span>21</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Music.m3u">Music <span>17</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Religious.m3u">Religious <span>26</span></a>
+        <a class="category-link" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Lifestyle.m3u">Lifestyle <span>8</span></a>
       </div>
     </section>
   </main>

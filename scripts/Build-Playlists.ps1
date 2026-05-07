@@ -100,6 +100,37 @@ function New-M3uContent {
     return $lines
 }
 
+function Get-CategoryName {
+    param([object]$Channel)
+
+    $group = "$($Channel.group_title)".Trim()
+    $name = "$($Channel.name)".Trim()
+    $haystack = "$group $name".ToLowerInvariant()
+
+    if ($haystack -match "news|weather|business|bloomberg|cnbc|court") { return "News" }
+    if ($haystack -match "movie|movies|cinema|film") { return "Movies" }
+    if ($haystack -match "sport|nfl|nba|tennis|golf|bein|acc") { return "Sports" }
+    if ($haystack -match "kid|kids|cartoon|animation") { return "Kids" }
+    if ($haystack -match "documentary|science|history|learning|education|nature|outdoor|culture") { return "Documentary" }
+    if ($haystack -match "music|radio") { return "Music" }
+    if ($haystack -match "relig|faith|christian|church|tbn") { return "Religious" }
+    if ($haystack -match "shop|shopping|qvc|hsn") { return "Shopping" }
+    if ($haystack -match "travel|lifestyle|food|home|design|auto") { return "Lifestyle" }
+    if ($haystack -match "entertainment|series|comedy|classic|reality|daytime|general|usa|uk") { return "Entertainment" }
+
+    return "Other"
+}
+
+function Get-FileSafeName {
+    param([string]$Value)
+
+    $safe = "$Value".Trim() -replace "[^A-Za-z0-9_-]+", "-" -replace "^-+|-+$", ""
+    if ([string]::IsNullOrWhiteSpace($safe)) {
+        return "Other"
+    }
+    return $safe
+}
+
 $allSorted = $filtered | Sort-Object region, name
 $allPath = Join-Path $OutputDir "all.m3u"
 New-M3uContent -Items $allSorted | Out-File -FilePath $allPath -Encoding utf8
@@ -116,6 +147,29 @@ foreach ($grp in $regionsPresent) {
     New-M3uContent -Items $items | Out-File -FilePath $regionPath -Encoding utf8
 }
 
+$categoryDir = Join-Path $OutputDir "categories"
+New-Item -ItemType Directory -Path $categoryDir -Force | Out-Null
+
+$categoryItems = foreach ($c in $allSorted) {
+    [PSCustomObject]@{
+        category = Get-CategoryName -Channel $c
+        channel  = $c
+    }
+}
+
+$categoriesPresent = $categoryItems | Group-Object -Property category
+foreach ($grp in $categoriesPresent) {
+    $categoryName = "$($grp.Name)".Trim()
+    if ([string]::IsNullOrWhiteSpace($categoryName)) {
+        continue
+    }
+
+    $categoryPath = Join-Path $categoryDir ("{0}.m3u" -f (Get-FileSafeName -Value $categoryName))
+    $items = $grp.Group | ForEach-Object { $_.channel } | Sort-Object region, name
+    New-M3uContent -Items $items | Out-File -FilePath $categoryPath -Encoding utf8
+}
+
 Write-Host "Playlists generated in: $OutputDir"
 Write-Host "All channels file: $allPath"
 Write-Host "Channel count: $($allSorted.Count)"
+Write-Host "Category playlists: $categoryDir"

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PMITV.pk@SD" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Undefined",PMI TV (720p) [Not 24/7]
+https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PraiseTV.pk@SD" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Undefined",Praise TV (720p)
+https://livecdn.live247stream.com/praise/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZindagiTV.pk@SD" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined",Zindagi TV (576p) [Not 24/7]
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Undefined",Brit Asia TV (1080p)
+https://hls.autopo.st/hls/britasiatv/index.m3u8
+#EXTINF:-1 tvg-id="HellenicTV.uk@SD" tvg-logo="https://i.imgur.com/NE7ddhC.png" group-title="Undefined",Hellenic TV (720p) [Not 24/7]
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 tvg-id="RugbyPassTV.uk@SD" tvg-logo="" group-title="Undefined",Rugby Pass TV (720p)
+https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
+#EXTINF:-1 tvg-id="SheffieldLiveTV.uk@SD" tvg-logo="https://i.imgur.com/p0QzCFs.png" group-title="Undefined",Sheffield Live TV (360p) [Not 24/7]
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="Undefined",Spark TV (1080p)
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VoxAfrica.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" group-title="Undefined",VoxAfrica (720p)
+http://69.64.57.208/voxafrica/playlist.m3u8
+#EXTINF:-1 tvg-id="XUMO_99951152" tvg-logo="https://image.xumo.com/v1/channels/channel/99951152/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Westerns & Country",Grit Xtra
+https://dbrb49pjoymg4.cloudfront.net/10001/99951152/hls/playlist.m3u8?ads.xumo_channelId=99951152&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsGritXtra&ads.csid=xumo_[PLATFORM]_ScrippsGritXtra_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3807&ads.xumo_contentName=ScrippsGritXtra&ads.xumo_providerId=3807&ads.xumo_providerName=ScrippsGritXtra&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951152&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]

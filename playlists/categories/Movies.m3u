@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Filmax.pk@SD" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="Movies",Filmax (576p)
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1 tvg-id="DiscoverFilm.uk@SD" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies",DiscoverFilm (720p)
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Filmzie (GB)
+https://filmzie-filmzie-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Great Movies! (GB) Geo
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATmovies.uk@UK" tvg-logo="" group-title="Movies",GREAT! movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATromance.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="Movies",GREAT! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Icon Film Classics (GB)
+https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Lifetime Movies (GB) Geo
+https://amg00276-aenetwork-amg00276c21-lg-gb-5291.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network (1080p)
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NollyAfrica.uk@SD" tvg-logo="https://i.imgur.com/IxtGpti.png" group-title="Movies",Nolly Africa HD (1080p)
+https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Action Movies UK (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies UK (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Drama Movies UK (1080p)
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Family;Movies",Rakuten TV Family Movies UK (1080p)
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Sparkle Movies (GB)
+https://candlelightmedia-sparklemovies-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BlackCinema.us@SD" tvg-logo="https://i.imgur.com/FKBp987.png" group-title="Movies",BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="XUMO_99991709" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/300x300.webp?type=color_onBlack" group-title="General",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CrownMediaHallmarkMoviesNew&ads.csid=xumo_[PLATFORM]_CrownMediaHallmarkMoviesNew_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,Romance,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,Romance,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2777&ads.xumo_contentName=CrownMediaHallmarkMoviesNew&ads.xumo_providerId=2777&ads.xumo_providerName=CrownMediaHallmarkMoviesNew&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991709&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="Movies.us@SD" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="Movies",Movies! (480p)
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLandDrama.us@SD" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="Movies",TV Land Drama
+https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8

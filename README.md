@@ -25,6 +25,21 @@ https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/UK.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/PK.m3u
 ```
 
+Category playlists:
+
+```text
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/News.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Movies.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Entertainment.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Sports.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Kids.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Documentary.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Music.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Religious.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Shopping.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Lifestyle.m3u
+```
+
 Repository:
 
 ```text
@@ -105,6 +120,7 @@ Generated files:
 - `playlists/US.m3u`
 - `playlists/UK.m3u`
 - `playlists/PK.m3u`
+- `playlists/categories/*.m3u`
 
 Build logic keeps one primary stream per channel identity (prefers `tvg_id`, otherwise `region+name`) so backup URLs do not create duplicate playlist entries.
 
@@ -122,6 +138,14 @@ Or use a region-specific URL:
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/US.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/UK.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/PK.m3u
+```
+
+Or use a category URL:
+
+```text
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/News.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Movies.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Entertainment.m3u
 ```
 
 ## 5) Enable the Landing Page
