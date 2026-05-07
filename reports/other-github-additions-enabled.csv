@@ -1,0 +1,7 @@
+"id","name","region","language","tvg_id","tvg_logo","group_title","stream_url","enabled","last_checked_ok","last_checked_at_utc","last_status","last_error"
+"sixty_days_in_by_a_e_us","60 Days In by A&E","US","English","","","Entertainment","https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8","true","true","2026-05-07T21:51:31.0341333Z","206",""
+"cold_case_files_by_a_e_us","Cold Case Files by A&E","US","English","","","Entertainment","https://jmp2.uk/plu-5c37d6712de254456f7ec340.m3u8","true","true","2026-05-07T21:51:31.0341333Z","200",""
+"comedy_central_pluto_tv_us","Comedy Central Pluto TV","US","English","ComedyCentralPlutoTV.us@US","","Entertainment","https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8","true","true","2026-05-07T21:51:31.0341333Z","200",""
+"hoarders_by_a_e_us","Hoarders by A&E","US","English","","","Entertainment","https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8","true","true","2026-05-07T21:51:31.0341333Z","206",""
+"lifetime_movie_favorites_us","Lifetime Movie Favorites","US","English","","","Movies","https://jmp2.uk/plu-63335b193583440007c859fb.m3u8","true","true","2026-05-07T21:51:31.0341333Z","200",""
+"lifetime_movies_love_and_drama_us","Lifetime Movies Love & Drama","US","English","","","Movies","https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8","true","true","2026-05-07T21:51:31.0341333Z","206",""

@@ -3,12 +3,18 @@
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATromance.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="Movies",GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="XUMO_99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/300x300.webp?type=color_onBlack" group-title="Movies",AMC Thrillers
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377&ads.channelId=99951377&ads.csid=xumo_[PLATFORM]_AMCAMCThrillers_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA_TYPE]:[IFA]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=[PLATFORM]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 tvg-id="BlackCinema.us@SD" tvg-logo="https://i.imgur.com/FKBp987.png" group-title="Movies",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="XUMO_99991709" tvg-logo="https://image.xumo.com/v1/channels/channel/99991709/300x300.webp?type=color_onBlack" group-title="General",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/10001/99991709/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991709&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CrownMediaHallmarkMoviesNew&ads.csid=xumo_[PLATFORM]_CrownMediaHallmarkMoviesNew_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,Romance,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,Romance,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2777&ads.xumo_contentName=CrownMediaHallmarkMoviesNew&ads.xumo_providerId=2777&ads.xumo_providerName=CrownMediaHallmarkMoviesNew&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991709&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Lifetime Movie Favorites
+https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Lifetime Movies Love & Drama
+https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
 #EXTINF:-1 tvg-id="Movies.us@SD" tvg-logo="https://i.imgur.com/gAGn3mK.png" group-title="Movies",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)

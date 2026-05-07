@@ -2,12 +2,12 @@
 
 Curated, validated IPTV playlists for Stremio and other IPTV players.
 
-- **All regions playlist:** 79 working streams
-- **US:** 54 popular working channels
+- **All regions playlist:** 89 working streams
+- **US:** 64 popular working channels
 - **UK:** 16 popular working channels
 - **Pakistan:** 9 popular working channels
 
-Last full playlist validation: **79/79 streams working**.
+Last full playlist validation: **89/89 streams working**.
 
 ## Playlist URLs
 
