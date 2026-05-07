@@ -1,0 +1,36 @@
+name: Validate Streams
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches: [ "main" ]
+    paths:
+      - "channels/channels.csv"
+      - "scripts/Test-StreamLinks.ps1"
+      - "scripts/Build-Playlists.ps1"
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate stream URLs
+        shell: pwsh
+        run: ./scripts/Test-StreamLinks.ps1
+
+      - name: Build playlists
+        shell: pwsh
+        run: ./scripts/Build-Playlists.ps1
+
+      - name: Upload reports and playlists
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-validation-output
+          path: |
+            reports/
+            playlists/
