@@ -2,12 +2,12 @@
 
 Curated, validated IPTV playlists for Stremio and other IPTV players.
 
-- **All regions playlist:** 277 working streams
-- **US:** 51 popular working channels
-- **UK:** 198 working channels
-- **Pakistan:** 28 working channels
+- **All regions playlist:** 72 working streams
+- **US:** 50 popular working channels
+- **UK:** 13 popular working channels
+- **Pakistan:** 9 popular working channels
 
-Last full playlist validation: **277/277 streams working**.
+Last full playlist validation: **72/72 streams working**.
 
 ## Playlist URLs
 
@@ -32,12 +32,10 @@ https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categori
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Movies.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Entertainment.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Sports.m3u
-https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Kids.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Documentary.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Music.m3u
-https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Religious.m3u
-https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Shopping.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Lifestyle.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Other.m3u
 ```
 
 Repository:
@@ -189,4 +187,5 @@ git push
 
 - Some streams block bots or require specific headers. Those may fail automated checks even if they work in a media player.
 - Revalidate regularly because IPTV links expire often.
-- The US playlist is intentionally trimmed to popular/recognizable channels instead of keeping every available FAST stream.
+- US, UK, and Pakistan playlists are intentionally trimmed to popular/recognizable channels instead of keeping every available FAST stream.
+- Religious, shopping, duplicate, and non-direct YouTube page URLs are disabled from generated playlists.

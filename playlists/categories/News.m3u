@@ -7,46 +7,18 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk@SD" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News",Lahore News (720p) [Not 24/7]
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsOne.pk@SD" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="News",News One (720p)
-https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD" tvg-logo="" group-title="News",Afghanistan International
-https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.uk@SD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-#EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BloombergOriginals.us@SD" tvg-logo="" group-title="Documentary",Bloomberg Originals Global
-https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-logo="" group-title="News",Bloomberg TV Europe
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",CNBC (UK) Geo
-https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" group-title="Business",CNBC Europe
-https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="" group-title="News",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaNewsUK.uk@SD" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="News",Dunya News (UK Feed) (720p) [Not 24/7]
-https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk@SD" tvg-logo="" group-title="News",GB News
-https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" group-title="UK",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-logo="" group-title="News",Iran International
-https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" tvg-logo="" group-title="News",IraneFarda TV
-https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD" tvg-logo="" group-title="Science",Sky News Weather
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk@SD" tvg-logo="" group-title="News",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:-1 tvg-id="Trailers.es@UK" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",Trailers (1080p)
-https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="XUMO_99951471" tvg-logo="https://image.xumo.com/v1/channels/channel/99951471/300x300.webp?type=color_onBlack" group-title="News",A&E Crime 360
 https://dbrb49pjoymg4.cloudfront.net/10001/99951471/hls/playlist.m3u8?ads.xumo_channelId=99951471&ads.xumo_streamId=99951471&ads.channelId=99951471&ads.channelName=AECrime360byAE_us&ads.caid=AECrime360byAE&ads.csid=xumo_[PLATFORM]_AECrime360byAE_ssai&ads._fw_coppa=0&ads.xumo_contentId=4317&ads.xumo_contentName=AECrime360byAE&ads.xumo_providerId=4317&ads.xumo_providerName=AECrime360byAE&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
 #EXTINF:-1 tvg-id="XUMO_99951517" tvg-logo="https://image.xumo.com/v1/channels/channel/99951517/300x300.webp?type=color_onBlack" group-title="News",ABC News Live
@@ -59,8 +31,6 @@ https://accuweatherx-lg.amagi.tv/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="" group-title="News",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/BTasyOy.png" group-title="USA",CNBC Ⓨ
-https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-id="XUMO_99991713" tvg-logo="https://image.xumo.com/v1/channels/channel/99991713/300x300.webp?type=color_onBlack" group-title="News",Court TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991713/hls/playlist.m3u8?ads.xumo_channelId=99991713&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsTVCourtTV&ads.csid=xumo_[PLATFORM]_ScrippsTVCourtTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2048&ads.xumo_contentName=ScrippsTVCourtTV&ads.xumo_providerId=2048&ads.xumo_providerName=ScrippsTVCourtTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991713&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 tvg-id="XUMO_99951430" tvg-logo="https://image.xumo.com/v1/channels/channel/99951430/300x300.webp?type=color_onBlack" group-title="XUMO🇺🇸: Local News",FOX LOCAL Austin

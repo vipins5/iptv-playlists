@@ -149,6 +149,7 @@ foreach ($grp in $regionsPresent) {
 
 $categoryDir = Join-Path $OutputDir "categories"
 New-Item -ItemType Directory -Path $categoryDir -Force | Out-Null
+Get-ChildItem -Path $categoryDir -Filter "*.m3u" -File | Remove-Item -Force
 
 $categoryItems = foreach ($c in $allSorted) {
     [PSCustomObject]@{

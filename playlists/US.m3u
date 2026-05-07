@@ -29,8 +29,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/BTasyOy.png" group-title="USA",CNBC Ⓨ
-https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-id="Comet.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/960px-Comet_logo.svg.png" group-title="Entertainment",Comet (1080p)
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="XUMO_99991713" tvg-logo="https://image.xumo.com/v1/channels/channel/99991713/300x300.webp?type=color_onBlack" group-title="News",Court TV
