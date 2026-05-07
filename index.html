@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IPTV Playlists by vipins5</title>
+  <meta name="description" content="Validated IPTV playlists for US, UK, and Pakistan channels.">
+  <style>
+    :root {
+      --bg: #07110f;
+      --panel: #101a17;
+      --panel-strong: #16231f;
+      --text: #f4faf7;
+      --muted: #a8b9b0;
+      --line: rgba(255, 255, 255, 0.14);
+      --green: #56d683;
+      --cyan: #65d7d1;
+      --gold: #f2c94c;
+      --red: #ff6b6b;
+      color-scheme: dark;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .hero {
+      min-height: 88vh;
+      display: grid;
+      align-items: end;
+      background-image:
+        linear-gradient(180deg, rgba(7, 17, 15, 0.1), rgba(7, 17, 15, 0.92)),
+        url("https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=1800&q=80");
+      background-size: cover;
+      background-position: center;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .hero-inner,
+    main {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .hero-inner {
+      padding: 48px 0 56px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 7px 12px;
+      border: 1px solid var(--line);
+      background: rgba(7, 17, 15, 0.72);
+      color: var(--green);
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+
+    .signal {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 18px var(--green);
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 780px;
+      font-size: clamp(42px, 7vw, 86px);
+      line-height: 0.95;
+      letter-spacing: 0;
+    }
+
+    .lede {
+      max-width: 650px;
+      margin: 22px 0 0;
+      color: #d7e4dd;
+      font-size: 20px;
+      line-height: 1.55;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 30px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      min-height: 46px;
+      padding: 0 18px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    .button.primary {
+      background: var(--green);
+      border-color: var(--green);
+      color: #06100d;
+    }
+
+    .button:hover {
+      transform: translateY(-1px);
+    }
+
+    main {
+      padding: 38px 0 56px;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: -68px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .stat,
+    .playlist,
+    .note {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(16, 26, 23, 0.94);
+      box-shadow: 0 14px 44px rgba(0, 0, 0, 0.24);
+    }
+
+    .stat {
+      padding: 18px;
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 32px;
+      line-height: 1;
+    }
+
+    .stat span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .section-title {
+      margin: 44px 0 16px;
+      font-size: 24px;
+      letter-spacing: 0;
+    }
+
+    .playlist-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .playlist {
+      padding: 18px;
+    }
+
+    .playlist h3 {
+      margin: 0 0 12px;
+      font-size: 18px;
+    }
+
+    .url-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+    }
+
+    code {
+      display: block;
+      overflow-wrap: anywhere;
+      padding: 12px;
+      border-radius: 6px;
+      background: #07110f;
+      color: #dcebe4;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      font-size: 13px;
+    }
+
+    .copy {
+      min-width: 82px;
+      min-height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--panel-strong);
+      color: var(--text);
+      font-weight: 800;
+      cursor: pointer;
+    }
+
+    .copy:hover {
+      border-color: var(--green);
+    }
+
+    .note {
+      margin-top: 18px;
+      padding: 16px 18px;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .channels {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+
+    .tag {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 7px 10px;
+      color: #dcebe4;
+      background: rgba(255, 255, 255, 0.06);
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    footer {
+      width: min(1120px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 0 0 36px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 760px) {
+      .hero {
+        min-height: 82vh;
+      }
+
+      .lede {
+        font-size: 17px;
+      }
+
+      .stats,
+      .playlist-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .stats {
+        margin-top: -34px;
+      }
+
+      .url-row {
+        grid-template-columns: 1fr;
+      }
+
+      .copy {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="eyebrow"><span class="signal"></span> 277/277 streams validated</div>
+      <h1>IPTV playlists that are already cleaned up.</h1>
+      <p class="lede">Curated M3U playlists for US, UK, and Pakistan, trimmed to working streams and hosted directly from GitHub.</p>
+      <div class="hero-actions">
+        <a class="button primary" href="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/all.m3u">Open All Channels</a>
+        <a class="button" href="https://github.com/vipins5/iptv-playlists">View Repository</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="stats" aria-label="Playlist counts">
+      <div class="stat"><strong>277</strong><span>All playlist streams</span></div>
+      <div class="stat"><strong>51</strong><span>Popular US channels</span></div>
+      <div class="stat"><strong>198</strong><span>UK channels</span></div>
+      <div class="stat"><strong>28</strong><span>Pakistan channels</span></div>
+    </section>
+
+    <h2 class="section-title">Playlist Links</h2>
+    <section class="playlist-grid" aria-label="Raw playlist URLs">
+      <article class="playlist">
+        <h3>All Channels</h3>
+        <div class="url-row">
+          <code>https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/all.m3u</code>
+          <button class="copy" data-url="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/all.m3u">Copy</button>
+        </div>
+      </article>
+      <article class="playlist">
+        <h3>US</h3>
+        <div class="url-row">
+          <code>https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/US.m3u</code>
+          <button class="copy" data-url="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/US.m3u">Copy</button>
+        </div>
+      </article>
+      <article class="playlist">
+        <h3>UK</h3>
+        <div class="url-row">
+          <code>https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/UK.m3u</code>
+          <button class="copy" data-url="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/UK.m3u">Copy</button>
+        </div>
+      </article>
+      <article class="playlist">
+        <h3>Pakistan</h3>
+        <div class="url-row">
+          <code>https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/PK.m3u</code>
+          <button class="copy" data-url="https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/PK.m3u">Copy</button>
+        </div>
+      </article>
+    </section>
+
+    <section class="note">
+      <strong>US playlist focus:</strong> popular and recognizable channels only. Extras were disabled after validation so the playlist stays compact.
+      <div class="channels" aria-label="Sample US channels">
+        <span class="tag">ABC News Live</span>
+        <span class="tag">CBS News</span>
+        <span class="tag">BBC America</span>
+        <span class="tag">Bloomberg TV</span>
+        <span class="tag">Court TV</span>
+        <span class="tag">ION</span>
+        <span class="tag">MovieSphere</span>
+        <span class="tag">NBC News NOW</span>
+        <span class="tag">Newsmax</span>
+        <span class="tag">WeatherNation</span>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Maintained from the vipins5/iptv-playlists GitHub repository. Stream availability can change, so revalidate before sharing a long-lived playlist.
+  </footer>
+
+  <script>
+    document.querySelectorAll(".copy").forEach((button) => {
+      button.addEventListener("click", async () => {
+        const original = button.textContent;
+        try {
+          await navigator.clipboard.writeText(button.dataset.url);
+          button.textContent = "Copied";
+        } catch (error) {
+          button.textContent = "Select";
+        }
+        window.setTimeout(() => {
+          button.textContent = original;
+        }, 1600);
+      });
+    });
+  </script>
+</body>
+</html>
