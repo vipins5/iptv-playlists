@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCFour.uk@UKHD" tvg-logo="" group-title="Documentary",BBC Four
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 #EXTINF:-1 tvg-id="Create.us@SD" tvg-logo="" group-title="Documentary",Create
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="XUMO_99951195" tvg-logo="https://image.xumo.com/v1/channels/channel/99951195/300x300.webp?type=color_onBlack" group-title="Documentary",PBS Nature

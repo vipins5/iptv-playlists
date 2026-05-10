@@ -2,12 +2,12 @@
 
 Curated, validated IPTV playlists for Stremio and other IPTV players.
 
-- **All regions playlist:** 93 working streams
-- **US:** 64 popular working channels
-- **UK:** 16 popular working channels
-- **Pakistan:** 13 popular working channels
+- **All regions playlist:** 94 working streams
+- **US:** 67 popular working channels
+- **UK:** 15 popular working channels
+- **Pakistan:** 12 popular working channels
 
-Last full playlist validation: **93/93 streams working**.
+Last playlist rebuild: **94 streams** after a VLC-validated official US/UK HD sweep.
 
 ## Playlist URLs
 
@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categori
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Documentary.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Music.m3u
 https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Lifestyle.m3u
-https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Other.m3u
+https://raw.githubusercontent.com/vipins5/iptv-playlists/main/playlists/categories/Kids.m3u
 ```
 
 Repository:
