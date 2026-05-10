@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="SoReal.uk" tvg-logo="" group-title="Lifestyle",So Real
+https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.uk" tvg-logo="https://i.imgur.com/xP1Paz8.png" group-title="Lifestyle",Tastemade
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasFunniestHomeVideos.us" tvg-logo="" group-title="Entertainment",America's Funniest Home Videos
+https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BonAppetit.us" tvg-logo="https://i.imgur.com/PRgLwQw.png" group-title="Lifestyle",Bon Appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8

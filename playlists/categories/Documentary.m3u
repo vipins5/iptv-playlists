@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DeadlyWomen.uk" tvg-logo="" group-title="Documentary",Deadly Women
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+#EXTINF:-1 tvg-id="DWDocumentaryYouTube.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/DW_%28English%29.svg/512px-DW_%28English%29.svg.png" group-title="Documentary",DW Documentary (YouTube Live)
+https://www.youtube.com/@DWDocumentary/live
+#EXTINF:-1 tvg-id="GetFactual.uk" tvg-logo="" group-title="Documentary",Get.Factual
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+#EXTINF:-1 tvg-id="AntiquesRoadshowPBS.us" tvg-logo="" group-title="Documentary",Antiques Roadshow PBS
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Create.us@SD" tvg-logo="" group-title="Documentary",Create
 https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="NASAYouTube.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Documentary",NASA (YouTube Live)
+https://www.youtube.com/@NASA/live
 #EXTINF:-1 tvg-id="XUMO_99951195" tvg-logo="https://image.xumo.com/v1/channels/channel/99951195/300x300.webp?type=color_onBlack" group-title="Documentary",PBS Nature
 https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_[PLATFORM]_PBSNature_ssai&ads._fw_app_bundle=[app_bundle]&ads.ifa_type=[IFA_TYPE]&ads.did=[IFA]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads.xumo_contentName=PBSNature&ads.xumo_providerName=[PROVIDER_NAME]&ads._fw_content_language=[content_language]&ads.assetId=[ASSET_ID]&ads._fw_content_genre=[content_genre]&ads.xumo_providerId=[PROVIDER_ID]&ads._fw_content_rating=[content_rating]&ads.channelId=99951195&ads.xumo_platform=[PLATFORM]&ads.site_id=22453
 #EXTINF:-1 tvg-id="WorldChannel.us@SD" tvg-logo="" group-title="Documentary",World Channel

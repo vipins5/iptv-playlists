@@ -2,12 +2,12 @@
 
 Curated, validated IPTV playlists for Stremio and other IPTV players.
 
-- **All regions playlist:** 94 working streams
-- **US:** 67 popular working channels
-- **UK:** 15 popular working channels
-- **Pakistan:** 12 popular working channels
+- **All regions playlist:** 115 working streams
+- **US:** 74 popular working channels
+- **UK:** 22 popular working channels
+- **Pakistan:** 19 popular working channels
 
-Last playlist rebuild: **94 streams** after a VLC-validated official US/UK HD sweep.
+Last playlist rebuild: **115 streams** after adding official FAST and official YouTube live channels across news, movies, kids, music, documentary, entertainment, and lifestyle.
 
 ## Playlist URLs
 
@@ -59,6 +59,7 @@ https://vipins5.github.io/iptv-playlists/
 - `reports/`: Validation outputs (generated)
 - `scripts/Import-M3uSources.ps1`: Imports public M3U sources and probes streams before adding them
 - `scripts/Build-Playlists.ps1`: Builds playlists from source data
+- `scripts/Find-MoreOfficialCandidates.ps1`: Finds and probes official/recognizable US, UK, and Pakistan candidate streams
 - `scripts/Test-StreamLinks.ps1`: Tests stream URLs and writes validation reports
 
 ## 1) Add Your Regions and Channels
@@ -186,6 +187,7 @@ git push
 ## Notes
 
 - Some streams block bots or require specific headers. Those may fail automated checks even if they work in a media player.
+- Official YouTube live entries are stable channel pages, not temporary extracted manifests. They require a player/plugin that supports YouTube URLs.
 - Revalidate regularly because IPTV links expire often.
 - US, UK, and Pakistan playlists are intentionally trimmed to popular/recognizable channels instead of keeping every available FAST stream.
-- Religious, shopping, duplicate, and non-direct YouTube page URLs are disabled from generated playlists.
+- Religious, shopping, adult, and duplicate streams are disabled from generated playlists.

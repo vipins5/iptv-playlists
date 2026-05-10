@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KidsZoneYouTube.pk" tvg-logo="" group-title="Kids",Kids Zone Pakistan (YouTube Live)
+https://www.youtube.com/@KidsZonePakistan/live
 #EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="" group-title="Kids",PBS Kids (720p)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
