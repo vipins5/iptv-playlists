@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AajEntertainment.pk@SD" tvg-logo="https://i.imgur.com/WK5Cqap.png" group-title="Entertainment",Aaj Entertainment (1080p)
 https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="AajNewsYouTube.pk" tvg-logo="" group-title="News",Aaj News (YouTube Live)
+https://www.youtube.com/@AajNews/live
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/jHXju79.png" group-title="Entertainment",ARY Digital (YouTube Live)
 https://www.youtube.com/@ARYDigitalasia/live
 #EXTINF:-1 tvg-id="ARYMusikYouTube.pk" tvg-logo="" group-title="Music",ARY Musik (YouTube Live)
 https://www.youtube.com/@arymusik/live
 #EXTINF:-1 tvg-id="BolEntertainment.pk@SD" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Entertainment",Bol Entertainment (1080p)
 https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="BOLNewsYouTube.pk" tvg-logo="" group-title="News",BOL News (YouTube Live)
+https://www.youtube.com/@BOLNewsOfficial/live
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk@SD" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",Dunya News (INT Feed) (720p) [Not 24/7]
@@ -15,14 +19,24 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://www.youtube.com/@DunyaNews/live
 #EXTINF:-1 tvg-id="ExpressEntertainment.pk@SD" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Entertainment",Express Entertainment (1080p)
 https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+#EXTINF:-1 tvg-id="ExpressNewsYouTube.pk" tvg-logo="" group-title="News",Express News (YouTube Live)
+https://www.youtube.com/@ExpressNewsOfficial/live
+#EXTINF:-1 tvg-id="GeoKahaniYouTube.pk" tvg-logo="" group-title="Entertainment",Geo Kahani (YouTube Live)
+https://www.youtube.com/@GeoKahani/live
 #EXTINF:-1 tvg-id="GeoNews.pk" tvg-logo="https://i.imgur.com/3Qx6Wyk.png" group-title="News",Geo News (YouTube Live)
 https://www.youtube.com/@GeoNews/live
+#EXTINF:-1 tvg-id="GeoSuperYouTube.pk" tvg-logo="" group-title="Sports",Geo Super (YouTube Live)
+https://www.youtube.com/@GeoSuper/live
 #EXTINF:-1 tvg-id="GeoTez.pk@SD" tvg-logo="" group-title="News",Geo Tez
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HarPalGeo.pk@SD" tvg-logo="" group-title="Entertainment",HarPal Geo
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HUMMasalaYouTube.pk" tvg-logo="" group-title="Lifestyle",HUM Masala (YouTube Live)
+https://www.youtube.com/@MasalaTVRecipes/live
 #EXTINF:-1 tvg-id="HumNews.pk" tvg-logo="https://i.imgur.com/SJyGfDu.png" group-title="News",Hum News (YouTube Live)
 https://www.youtube.com/@HUMNewsPakistan/live
+#EXTINF:-1 tvg-id="HUMTVYouTube.pk" tvg-logo="" group-title="Entertainment",HUM TV (YouTube Live)
+https://www.youtube.com/@HUMTV/live
 #EXTINF:-1 tvg-id="KidsZoneYouTube.pk" tvg-logo="" group-title="Kids",Kids Zone Pakistan (YouTube Live)
 https://www.youtube.com/@KidsZonePakistan/live
 #EXTINF:-1 tvg-id="KTNNews.pk@SD" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="News",KTN News (360p)

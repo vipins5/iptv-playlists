@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AajNewsYouTube.pk" tvg-logo="" group-title="News",Aaj News (YouTube Live)
+https://www.youtube.com/@AajNews/live
+#EXTINF:-1 tvg-id="BOLNewsYouTube.pk" tvg-logo="" group-title="News",BOL News (YouTube Live)
+https://www.youtube.com/@BOLNewsOfficial/live
 #EXTINF:-1 tvg-id="DunyaNews.pk@SD" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",Dunya News (INT Feed) (720p) [Not 24/7]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",Dunya News (YouTube Live)
 https://www.youtube.com/@DunyaNews/live
+#EXTINF:-1 tvg-id="ExpressNewsYouTube.pk" tvg-logo="" group-title="News",Express News (YouTube Live)
+https://www.youtube.com/@ExpressNewsOfficial/live
 #EXTINF:-1 tvg-id="GeoNews.pk" tvg-logo="https://i.imgur.com/3Qx6Wyk.png" group-title="News",Geo News (YouTube Live)
 https://www.youtube.com/@GeoNews/live
 #EXTINF:-1 tvg-id="GeoTez.pk@SD" tvg-logo="" group-title="News",Geo Tez

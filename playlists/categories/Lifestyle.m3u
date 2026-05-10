@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="HUMMasalaYouTube.pk" tvg-logo="" group-title="Lifestyle",HUM Masala (YouTube Live)
+https://www.youtube.com/@MasalaTVRecipes/live
 #EXTINF:-1 tvg-id="SoReal.uk" tvg-logo="" group-title="Lifestyle",So Real
 https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade.uk" tvg-logo="https://i.imgur.com/xP1Paz8.png" group-title="Lifestyle",Tastemade

@@ -44,7 +44,14 @@ $manualCandidates = @(
     [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "Hum News (YouTube Live)"; group = "News"; url = "https://www.youtube.com/@HUMNewsPakistan/live"; logo = "https://i.imgur.com/SJyGfDu.png"; tvg_id = "HumNews.pk" },
     [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "ARY Digital (YouTube Live)"; group = "Entertainment"; url = "https://www.youtube.com/@ARYDigitalasia/live"; logo = "https://i.imgur.com/jHXju79.png"; tvg_id = "ARYDigital.pk" },
     [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "ARY Musik (YouTube Live)"; group = "Music"; url = "https://www.youtube.com/@arymusik/live"; logo = ""; tvg_id = "ARYMusikYouTube.pk" },
-    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "Kids Zone Pakistan (YouTube Live)"; group = "Kids"; url = "https://www.youtube.com/@KidsZonePakistan/live"; logo = ""; tvg_id = "KidsZoneYouTube.pk" }
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "Kids Zone Pakistan (YouTube Live)"; group = "Kids"; url = "https://www.youtube.com/@KidsZonePakistan/live"; logo = ""; tvg_id = "KidsZoneYouTube.pk" },
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "Geo Kahani (YouTube Live)"; group = "Entertainment"; url = "https://www.youtube.com/@GeoKahani/live"; logo = ""; tvg_id = "GeoKahaniYouTube.pk" },
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "Geo Super (YouTube Live)"; group = "Sports"; url = "https://www.youtube.com/@GeoSuper/live"; logo = ""; tvg_id = "GeoSuperYouTube.pk" },
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "HUM TV (YouTube Live)"; group = "Entertainment"; url = "https://www.youtube.com/@HUMTV/live"; logo = ""; tvg_id = "HUMTVYouTube.pk" },
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "HUM Masala (YouTube Live)"; group = "Lifestyle"; url = "https://www.youtube.com/@MasalaTVRecipes/live"; logo = ""; tvg_id = "HUMMasalaYouTube.pk" },
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "BOL News (YouTube Live)"; group = "News"; url = "https://www.youtube.com/@BOLNewsOfficial/live"; logo = ""; tvg_id = "BOLNewsYouTube.pk" },
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "Express News (YouTube Live)"; group = "News"; url = "https://www.youtube.com/@ExpressNewsOfficial/live"; logo = ""; tvg_id = "ExpressNewsYouTube.pk" },
+    [pscustomobject]@{ source = "Official YouTube"; region = "PK"; name = "Aaj News (YouTube Live)"; group = "News"; url = "https://www.youtube.com/@AajNews/live"; logo = ""; tvg_id = "AajNewsYouTube.pk" }
 )
 
 function Get-ResponseText {
